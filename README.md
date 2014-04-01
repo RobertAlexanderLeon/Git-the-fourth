@@ -6,6 +6,7 @@ Git-the-fourth
 * Fixnum vs Strings
 * Interpolation
 * If/ Else statements
+* Ternary operators
 
 ==============
 
