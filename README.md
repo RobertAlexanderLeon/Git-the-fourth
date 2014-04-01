@@ -1,11 +1,10 @@
-
 Git-the-fourth
 
 **My first forray into Ruby development.**
 
--Fixnum vs Strings
--Interpolation
--If/ Else statements
+--Fixnum vs Strings
+--Interpolation
+--If/ Else statements
 
 ==============
 
